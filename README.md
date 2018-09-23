@@ -8,4 +8,5 @@ https://www.apress.com/us/book/9781484239506
 Intro.
 
 ![](fig-dendo.jpg)
+
 Coming soon.
