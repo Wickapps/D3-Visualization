@@ -6,19 +6,19 @@ This project is the first project in Chapter 2 of the book:
 https://www.apress.com/us/book/9781484239506
 # About the Project
 
-This project implement D3 visualization for the desktop browser.
+This project implement visualization for the desktop browser using the D3 Javascript library.
 
 Dendograms are useful for showing hierarchy. The project will explore a variety of dendograms to visualize both CSV and JSON data. 
 
 # Project Details
 Project Name: D3 Visualization
 
-Source: d3_vizualization.zip or github.com/wickapps/D3-Visualization
+Source: **d3_vizualization.zip** or **github.com/wickapps/D3-Visualization**
 
-Type: Desktop browser
+Type: Desktop browser which supports Javascript
 
 # File Summary
-A short summary of the files included in this project:
+Summary of the files included in this project:
 
 | File | Description
 | :--- | :---
