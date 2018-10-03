@@ -1,5 +1,5 @@
 # D3-Visualization
-This project is the first project in Chapter 2 of the [book](https://www.apress.com/us/book/9781484239506):
+This project is covered in detail in Chapter 2 of the [book](https://www.apress.com/us/book/9781484239506):
 
 ![](fig-cover-sm.jpg)
 
