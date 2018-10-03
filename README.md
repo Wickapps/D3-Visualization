@@ -1,9 +1,8 @@
 # D3-Visualization
-This project is the first project in Chapter 2 of the book:
+This project is the first project in Chapter 2 of the [book](https://www.apress.com/us/book/9781484239506):
 
 ![](fig-cover-sm.jpg)
 
-https://www.apress.com/us/book/9781484239506
 # About the Project
 
 This project implement visualization for the desktop browser using the D3 Javascript library.
