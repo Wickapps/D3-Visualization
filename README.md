@@ -6,16 +6,18 @@ This project is the first project in Chapter 2 of the book:
 https://www.apress.com/us/book/9781484239506
 # About the Project
 
-In this project, we will implement D3 visualization for the desktop browser.
+This project implement D3 visualization for the desktop browser.
 
 Dendograms are useful for showing hierarchy. The project will explore a variety of dendograms to visualize both CSV and JSON data. 
 
 # Project Details
+Project Name: D3 Visualization
 
-### Project Name: D3 Visualization
-### Source: d3_vizualization
-### Type: Desktop browser
+Source: d3_vizualization
 
+Type: Desktop browser
+
+# File Summary
 A short summary of the files included in this project:
 
 | File | Description
@@ -29,6 +31,7 @@ A short summary of the files included in this project:
 | collapse-tree-json.html | Collapsible Tree Dendogram example using JSON data
 | cluster-dendo-json.html | Cluster Dendogram example using JSON data
 
+# Example Output
 The example below shows the rendering produced by **radial-dendo-csv.html**
 
 ![](fig-dendo.jpg)
