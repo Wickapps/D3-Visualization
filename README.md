@@ -13,7 +13,7 @@ Dendograms are useful for showing hierarchy. The project will explore a variety 
 # Project Details
 Project Name: D3 Visualization
 
-Source: d3_vizualization
+Source: d3_vizualization.zip or github.com/wickapps/D3-Visualization
 
 Type: Desktop browser
 
